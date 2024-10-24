@@ -52,28 +52,3 @@ $ bower install
 > you can change the file expiry time by changing variable expiryTime
 > and routine cleanup time by changing variable routineTime in app.js.
 
-### Version
-0.0.1
-
-### Tech
-
-ChatRoom uses a number of open source projects to work properly:
-
-* [AngularJS] - HTML enhanced for web apps!
-* [Bootstrap] - great UI boilerplate for modern web apps
-* [AdminLTE] - great UI based on bootstrap
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework
-* [jQuery] - javascript library
-* [lightbox] - javascript plugin for image pop-ups 
-
-And of course ChatRoom itself is open source with a [public repository](https://github.com/systenics/ChatRoom) on GitHub.
-
-License
-----
-
-MIT
-
-### Contact
-- [**www.systenics.com**](http://www.systenics.com)
-- [**Other Systenics repositories**](https://github.com/systenics)
